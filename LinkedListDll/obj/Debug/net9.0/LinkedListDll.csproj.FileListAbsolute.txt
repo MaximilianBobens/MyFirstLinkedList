@@ -1,0 +1,11 @@
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\bin\Debug\net9.0\LinkedListDll.deps.json
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\bin\Debug\net9.0\LinkedListDll.dll
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\bin\Debug\net9.0\LinkedListDll.pdb
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.AssemblyInfoInputs.cache
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.AssemblyInfo.cs
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.csproj.CoreCompileInputs.cache
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.dll
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\refint\LinkedListDll.dll
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.pdb
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\ref\LinkedListDll.dll
