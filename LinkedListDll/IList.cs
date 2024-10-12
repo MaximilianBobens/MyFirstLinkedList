@@ -7,4 +7,14 @@ public interface IList
     void InsertFront(Node n);
     void PrintList();
     string GetList();
+    Node FindMin();
+    Node FinMax();
+    Node Remove();
+    public void PrintRec();
+    public void PrintReverseRec();
+    public Node FinMinRec();
+    public Node FinMaxRec();
+    public void AppendRec(Node n);
+    public void Sort();
+
 }

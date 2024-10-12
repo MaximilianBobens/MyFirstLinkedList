@@ -9,3 +9,4 @@ C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\Linked
 C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\refint\LinkedListDll.dll
 C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.pdb
 C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\ref\LinkedListDll.dll
+C:\Users\maxim\RiderProjects\LinkedListDll\LinkedListDll\obj\Debug\net9.0\LinkedListDll.sourcelink.json
